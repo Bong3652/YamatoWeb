@@ -1,0 +1,21 @@
+/* body {
+    background-color: black;
+    background-image: url(http://www.yamatolima.com/img/YamatoLogo3.png);
+    background-size: cover;
+} */
+
+body .row {
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    /* text-align: center; */
+    margin: 10px;
+}
+/* #nav-tabContent {
+    background-color: aqua;
+} */
