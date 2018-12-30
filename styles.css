@@ -12,6 +12,10 @@ ul {
     list-style-type: none;
 }
 
+/* ol li div {
+    text-align: right;
+} */
+
 img {
     /* text-align: center; */
     margin: 10px;
