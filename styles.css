@@ -15,8 +15,11 @@ ul {
 /* ol li div {
     text-align: right;
 } */
+.navbar-brand img {
+    float: right;
+}
 
-img {
+body .col-8 img {
     /* text-align: center; */
     margin: 10px;
     height:auto;
@@ -33,6 +36,44 @@ img {
     max-width:1500px;
     max-height:525px;
 }
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.topmargin {
+    margin-top: 10px;
+}
+
+.leftmargin {
+    margin-left: 10px;
+}
+
+p {
+    margin: 0px;
+}
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+}
+
+.left {
+    left: 0;
+    margin-left: 20px;
+}
+
+.right {
+    right: 0;
+    margin-right: 20px;
+}
+
+/* .split .left {
+   text-align: center;
+} */
+
 /* #nav-tabContent {
     background-color: aqua;
 } */
